@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Stash log2")
         print("Log in test branch")
+        print("Added first log")
+        print("Added from master")
     }
 
 
