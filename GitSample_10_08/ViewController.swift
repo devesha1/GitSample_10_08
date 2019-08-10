@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Stash log2")
         print("Added first log")
+        print("Added from master")
     }
 
 
