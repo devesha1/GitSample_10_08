@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Log in test branch")
         print("Added first log")
         print("Added from master")
+        print("Added from branch2")
     }
 
 
