@@ -12,11 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Stash log2")
-        print("Log in test branch")
-        print("Added first log")
-        print("Added from master")
-        print("Added from branch2")
+        print("Added from sharmabranch")
     }
 
 
