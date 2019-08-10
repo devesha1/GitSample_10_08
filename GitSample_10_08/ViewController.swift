@@ -12,10 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Git rebash -3")
-        print("Test git stash -0")
-        print("Test git stash -1")
-
     }
 
 
