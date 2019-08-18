@@ -15,6 +15,4 @@ class ViewController: UIViewController {
         print("Added from sharmabranch")
         print("Added new logs")
     }
-
-    }
 }
