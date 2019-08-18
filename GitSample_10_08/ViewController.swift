@@ -12,6 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Added from sharmabranch")
+        print("Added new logs")
+    }
 
     }
 }
