@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         print("Master chnages...........v1")
         print("Master V2")
+        print("V2 in rebaseDemo")
         return true
     }
 
@@ -45,4 +46,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
