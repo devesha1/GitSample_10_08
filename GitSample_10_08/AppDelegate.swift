@@ -17,6 +17,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         print("Master chnages...........v1")
+        print("Master V2")
+        print("V2 in rebaseDemo")
         return true
     }
 
@@ -44,4 +46,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
