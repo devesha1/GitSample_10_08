@@ -20,6 +20,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("changes from server branch99")
         print("New line1......")
         print("New line2......")
+
+        print("Master chnages...........v1")
+        print("Master V2")
+        print("V2 in rebaseDemo")
+        print("changes1 from rebasedemo 07/11/2019")
         return true
     }
 
